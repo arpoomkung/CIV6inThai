@@ -4,7 +4,7 @@
 	<BaseGameText>
 		<!-- Natural Wonders -->
 		<Row Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
-			<Text>สิ่งมหัศจรรย์ทางธรรมชาติถูกค้นพบ</Text>
+			<Text>natural wonder ถูกค้นพบแล้ว</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
 			<Text>The discovery of a natural wonder gives Scouts bonus experience. Natural wonders also give an adjacency bonus to Holy Site districts. All adjacent tiles receive +2 Appeal.</Text>
